@@ -75,9 +75,3 @@ https://www.kaggle.com/datasets/cemeraan/fecom-inc-e-com-marketplace-orders-data
 3. **Отсутствие COGS:** Метрика `freight_to_price_ratio` отражает долю в розничной цене, но не в марже
 4. **Геодезическое расстояние:** Формула Haversine занижает реальные логистические плеча на 20-40%
 
-
----
-
-## 📝 Лицензия
-
-Этот проект лицензирован под MIT License — см. файл [LICENSE](LICENSE) для деталей.
